@@ -1,0 +1,23 @@
+img {
+  float: right;
+  height: 400px;
+  right: 500px;
+}
+h1{
+  font-size: 40px;
+  padding: 0px;
+  margin: 0px;
+  border: 0px;
+  overflow: hidden;
+}
+.ElementoA{
+  font-size: 30px;
+}
+.ElementoB{
+  font-size: 20px;
+}
+
+.ElementoC{
+  font-size: 20px;
+  padding-top: 20px;
+}
